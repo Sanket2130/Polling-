@@ -1,2 +1,2 @@
 # Polling-
-Python polling script
+Python polling script to vote your favourite fruit..... ;)
